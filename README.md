@@ -17,6 +17,7 @@ DataEnoding.ipynb and answersGenerator.ipynb are related to the next part for wh
 # Acknowledgement
 
 This is a group project and all the following members have equally collaborated in the achievement of this work:  
+
 -Wassim Yaich https://www.linkedin.com/in/wassim-yaich-a6a042201/
 -Yessine Khanfir https://www.linkedin.com/in/yessine-khanfir-b5b509177/  
 -Sarrah Ferchichi https://www.linkedin.com/in/sarra-ferchichi-822a491ba/   
