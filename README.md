@@ -20,9 +20,9 @@ This is a group project and all the following members have equally collaborated 
 
 
 -Sarrah Ferchichi https://www.linkedin.com/in/sarra-ferchichi-822a491ba/   
--Fedi Baccouche https://www.linkedin.com/in/fedi-baccouche-283b361b8/ 
--Wassim Yaich https://www.linkedin.com/in/wassim-yaich-a6a042201/ 
+-Fedi Baccouche https://www.linkedin.com/in/fedi-baccouche-283b361b8/
 -Mayssa Zaouali https://www.linkedin.com/in/mayssa-zaouali-9288421bb/  
 -Wejdene Ben Jeddou https://www.linkedin.com/in/wejdene-benjeddou-154221182/  
 -Bennacef Mohammed Yassine https://www.linkedin.com/in/bennacef-mohamedyassine-732b4b202/  
 -Yessine Khanfir https://www.linkedin.com/in/yessine-khanfir-b5b509177/ 
+-Wassim Yaich  https://www.linkedin.com/in/wassim-yaich-a6a042201/
